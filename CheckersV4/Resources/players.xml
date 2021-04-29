@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPlayer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Player>
+    <name>Dinu</name>
+    <hasTurn>false</hasTurn>
+    <wins>0</wins>
+    <losses>0</losses>
+    <draws>0</draws>
+  </Player>
+  <Player>
+    <name>Adi</name>
+    <hasTurn>false</hasTurn>
+    <wins>10</wins>
+    <losses>0</losses>
+    <draws>0</draws>
+  </Player>
+  <Player>
+    <name>Florin</name>
+    <hasTurn>false</hasTurn>
+    <wins>0</wins>
+    <losses>0</losses>
+    <draws>0</draws>
+  </Player>
+  <Player>
+    <name>Player1</name>
+    <hasTurn>false</hasTurn>
+    <wins>10</wins>
+    <losses>5</losses>
+    <draws>3</draws>
+  </Player>
+  <Player>
+    <name>Player2</name>
+    <hasTurn>false</hasTurn>
+    <wins>0</wins>
+    <losses>0</losses>
+    <draws>0</draws>
+  </Player>
+</ArrayOfPlayer>
